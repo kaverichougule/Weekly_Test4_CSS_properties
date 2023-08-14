@@ -1,4 +1,5 @@
-Hosted Link: 
+Hosted Link: https://kaverichougule.github.io/Weekly_Test4_CSS_properties/
+Video Link: https://drive.google.com/file/d/1fjRVpXzg0bT-qgCE7WlMlQ47xrNO1PSq/view?usp=drive_link
 # Weekly Test 4 
 
 # Header and Navigation
